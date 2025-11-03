@@ -32,10 +32,9 @@
 
 The app integrates with an AI image generation API that accepts text prompts and produces high-quality images. Commonly used APIs include:
 
-* **OpenAI Image Generation API**  
-* **Stability AI (Stable Diffusion)**  
+* **ClipDrop AI Image Generation API**   
 
-These APIs interpret the prompt and generate corresponding visual outputs in real time.
+This API interpret the prompt and generate corresponding visual outputs in real time.
 
 ---
 
